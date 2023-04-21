@@ -27,4 +27,4 @@ $ yarn run prod
 ## Stay in touch
 
 - Author - [Dmitrii Pavlov](https://github.com/dmrompav)
-- Client App - [vue-clien-base](https://github.com/dmrompav/vue-client-base)
+- Server App - [nest-server-base](https://github.com/dmrompav/nest-server-base)
