@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vuejs.org/" target="blank"><img src="https://vuejs.org/logo.svg" height="64" alt="Vue Logo" /></a>
+  <a href="https://vuejs.org/" target="blank"><img src="https://vuejs.org/logo.svg" width="200" alt="Vue Logo" /></a>
 </p>
 
 # VUE-CLIENT-BASE
