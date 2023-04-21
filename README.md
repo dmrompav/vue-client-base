@@ -6,7 +6,7 @@
 
 ## Description
 
-Simple client app with [Vue](https://github.com/nestjs/nest) (login-logout, jwt).
+Simple client app with [Vue](https://vuejs.org/) (login-logout, jwt).
 
 ## Installation
 
