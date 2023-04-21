@@ -3,10 +3,13 @@
 </p>
 
 # VUE-CLIENT-BASE
+> Just an example app. Have some 'kludges'
 
 ## Description
 
-Simple client app with [Vue](https://vuejs.org/) (login-logout, jwt).
+Simple client app with [Vue](https://vuejs.org/) (login-logout, jwt)
+
+<font color='#ff0000'>The app is always expecting you to have a local server app.</font> You can find it **[here](https://github.com/dmrompav/nest-server-base)**
 
 ## Installation
 
