@@ -17,14 +17,11 @@ $ yarn
 ## Running the app
 
 ```bash
-# development
-$ yarn run start
-
-# watch mode
-$ yarn run start:dev
+# development mode
+$ yarn run dev
 
 # production mode
-$ yarn run start:prod
+$ yarn run prod
 ```
 
 ## Stay in touch
